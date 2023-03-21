@@ -1,5 +1,3 @@
-**samsamsambal/samsamsambal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Luqman</h1>
 <h3 align="center">Data Engineering Student at UTM</h3>
 
